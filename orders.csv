@@ -1,0 +1,101 @@
+Order_ID,City,Order_Time,Expected_Time,Delivery_Time,Delay_Reason,Rider_ID
+O001,Mumbai,15:21,15:36,15:56,High Order Volume,R106
+O002,Mumbai,14:44,14:59,15:09,Weather,R154
+O003,Mumbai,14:00,14:15,14:45,High Order Volume,R139
+O004,Mumbai,16:08,16:23,16:23,None,R139
+O005,Delhi,12:08,12:23,12:43,Traffic,R143
+O006,Bangalore,14:10,14:25,14:20,None,R160
+O007,Delhi,10:55,11:10,11:25,Weather,R125
+O008,Bangalore,11:01,11:16,11:21,Traffic,R145
+O009,Bangalore,12:01,12:16,12:31,Traffic,R143
+O010,Mumbai,15:38,15:53,16:13,Traffic,R157
+O011,Bangalore,09:05,09:20,09:35,Weather,R103
+O012,Delhi,12:58,13:13,13:33,Traffic,R142
+O013,Mumbai,12:52,13:07,13:07,None,R106
+O014,Mumbai,17:57,18:12,18:27,Rider Delay,R123
+O015,Delhi,10:11,10:26,10:56,High Order Volume,R113
+O016,Mumbai,17:58,18:13,18:13,None,R146
+O017,Delhi,09:39,09:54,10:09,Weather,R116
+O018,Mumbai,13:56,14:11,14:31,Rider Delay,R103
+O019,Mumbai,16:24,16:39,16:44,Rider Delay,R101
+O020,Bangalore,12:28,12:43,13:03,Rider Delay,R121
+O021,Delhi,11:49,12:04,12:34,Rider Delay,R125
+O022,Bangalore,08:01,08:16,08:16,None,R169
+O023,Mumbai,17:08,17:23,17:33,Weather,R197
+O024,Bangalore,15:19,15:34,15:44,High Order Volume,R143
+O025,Delhi,12:44,12:59,13:14,Traffic,R159
+O026,Bangalore,17:25,17:40,17:55,Rider Delay,R134
+O027,Mumbai,08:38,08:53,08:58,Traffic,R146
+O028,Mumbai,16:06,16:21,16:51,Rider Delay,R160
+O029,Mumbai,08:49,09:04,09:34,High Order Volume,R124
+O030,Bangalore,11:23,11:38,11:33,None,R138
+O031,Delhi,17:07,17:22,17:22,None,R120
+O032,Mumbai,10:32,10:47,10:57,Weather,R102
+O033,Mumbai,12:41,12:56,13:06,High Order Volume,R189
+O034,Mumbai,16:23,16:38,16:38,None,R141
+O035,Bangalore,16:34,16:49,17:04,Rider Delay,R140
+O036,Mumbai,14:26,14:41,15:11,Rider Delay,R161
+O037,Delhi,08:10,08:25,08:25,None,R137
+O038,Mumbai,15:45,16:00,16:00,None,R171
+O039,Delhi,08:26,08:41,09:11,Rider Delay,R117
+O040,Mumbai,10:35,10:50,10:45,None,R178
+O041,Mumbai,11:51,12:06,12:21,Weather,R123
+O042,Mumbai,08:31,08:46,08:56,High Order Volume,R120
+O043,Bangalore,08:07,08:22,08:37,High Order Volume,R174
+O044,Mumbai,12:53,13:08,13:03,None,R193
+O045,Delhi,08:09,08:24,08:24,None,R177
+O046,Mumbai,16:01,16:16,16:36,Traffic,R185
+O047,Mumbai,14:07,14:22,14:27,Weather,R117
+O048,Mumbai,09:34,09:49,10:04,Rider Delay,R165
+O049,Delhi,15:17,15:32,15:27,None,R190
+O050,Delhi,12:41,12:56,13:16,Rider Delay,R150
+O051,Delhi,15:41,15:56,16:26,High Order Volume,R162
+O052,Bangalore,16:17,16:32,16:52,Traffic,R177
+O053,Mumbai,17:30,17:45,17:50,Rider Delay,R183
+O054,Delhi,09:54,10:09,10:29,Rider Delay,R178
+O055,Mumbai,13:50,14:05,14:10,Rider Delay,R157
+O056,Mumbai,13:46,14:01,14:06,Traffic,R151
+O057,Mumbai,14:21,14:36,14:31,None,R125
+O058,Delhi,11:18,11:33,11:38,High Order Volume,R102
+O059,Mumbai,08:30,08:45,09:15,Traffic,R144
+O060,Delhi,17:37,17:52,18:07,Weather,R183
+O061,Mumbai,08:29,08:44,08:59,Traffic,R170
+O062,Bangalore,09:50,10:05,10:25,Rider Delay,R187
+O063,Bangalore,16:40,16:55,17:10,Traffic,R198
+O064,Bangalore,09:28,09:43,09:38,None,R155
+O065,Mumbai,12:13,12:28,12:48,Weather,R172
+O066,Mumbai,08:05,08:20,08:30,Weather,R117
+O067,Mumbai,16:45,17:00,17:15,Rider Delay,R159
+O068,Mumbai,17:00,17:15,17:10,None,R142
+O069,Bangalore,14:24,14:39,14:44,High Order Volume,R144
+O070,Bangalore,16:34,16:49,16:54,High Order Volume,R189
+O071,Bangalore,14:06,14:21,14:51,High Order Volume,R151
+O072,Mumbai,17:09,17:24,17:34,High Order Volume,R187
+O073,Mumbai,15:09,15:24,15:54,Rider Delay,R121
+O074,Bangalore,09:14,09:29,09:29,None,R100
+O075,Mumbai,17:32,17:47,17:52,Traffic,R180
+O076,Mumbai,16:14,16:29,16:59,High Order Volume,R152
+O077,Mumbai,09:28,09:43,10:13,High Order Volume,R139
+O078,Mumbai,16:49,17:04,17:14,Traffic,R107
+O079,Bangalore,15:13,15:28,15:33,High Order Volume,R181
+O080,Delhi,09:00,09:15,09:25,Rider Delay,R180
+O081,Delhi,11:54,12:09,12:24,Rider Delay,R102
+O082,Bangalore,11:55,12:10,12:15,Rider Delay,R101
+O083,Bangalore,09:57,10:12,10:12,None,R112
+O084,Mumbai,08:18,08:33,08:33,None,R122
+O085,Bangalore,17:05,17:20,17:15,None,R180
+O086,Delhi,09:26,09:41,10:01,Rider Delay,R150
+O087,Bangalore,17:34,17:49,17:49,None,R134
+O088,Mumbai,13:38,13:53,14:23,High Order Volume,R138
+O089,Delhi,10:05,10:20,10:20,None,R172
+O090,Mumbai,08:36,08:51,08:51,None,R184
+O091,Mumbai,11:14,11:29,11:49,Traffic,R142
+O092,Bangalore,17:55,18:10,18:25,Traffic,R106
+O093,Delhi,17:15,17:30,17:30,None,R194
+O094,Mumbai,14:37,14:52,14:47,None,R164
+O095,Mumbai,14:20,14:35,14:40,High Order Volume,R102
+O096,Bangalore,11:53,12:08,12:13,High Order Volume,R123
+O097,Delhi,10:38,10:53,11:08,Weather,R108
+O098,Mumbai,16:54,17:09,17:29,Weather,R154
+O099,Mumbai,15:16,15:31,15:31,None,R148
+O100,Delhi,10:08,10:23,10:53,Traffic,R188
